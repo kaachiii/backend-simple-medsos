@@ -39,6 +39,7 @@ $ npm run start
 
 # watch mode
 $ npm run start:dev
+$ npx nest start --watch
 
 # production mode
 $ npm run start:prod
